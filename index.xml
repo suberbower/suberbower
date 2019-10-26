@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suberblog</title>
+    <link>/</link>
+    <description>Recent content on Suberblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Sep 2019 20:39:47 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Todo: Magic Mirror</title>
+      <link>/post/2019-09-06-magic-mirror/</link>
+      <pubDate>Fri, 06 Sep 2019 20:39:47 +0200</pubDate>
+      
+      <guid>/post/2019-09-06-magic-mirror/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>ThinkPad X61 keyboard swap</title>
+      <link>/post/2019-08-23-x61-keyb/</link>
+      <pubDate>Fri, 23 Aug 2019 20:39:47 +0200</pubDate>
+      
+      <guid>/post/2019-08-23-x61-keyb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Void Linux on ThinkPad X61 Void</title>
+      <link>/post/2019-08-22-x61-void-install/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-08-22-x61-void-install/</guid>
+      <description>This machine in 12&amp;rdquo; 4:3 aspect ratio is great to have on the side, literally. The TN-panel looks awful in picture but is actually good enough to work in terminal environments. The classis 7-row keyboard gives this machine it&amp;rsquo;s right to exist eternally. I&amp;rsquo;ve decided to install Void Linux, the musl edition. Here are my notes to guide trough the setup process on the ThinkPad X61!
+ musl is a new standard library to power a new generation of Linux-based devices.</description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/demo/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/demo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description> Hi there!
+I&amp;rsquo;m the author of this blog. My notes and projects are posted here and open for discussion. Posts are written with care. If you would appreciate my blog much, consider to buy me a coffee :P Drop a bitcoin. It will help me stay up late and be productive.
+Suberbower
+ </description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drop it here</title>
+      <link>/bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bitcoin/</guid>
+      <description>bitcoin:bc1qxr7wrfp3xulk9zdj3vgnucdax7n42jhhj3s7qn  Drop a bitcoin here.</description>
+    </item>
+    
+  </channel>
+</rss>
