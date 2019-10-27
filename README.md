@@ -5,5 +5,5 @@
 > **Suberbower**
 
 ```shell
-$ update site -P now _
+$ update site -P now_
 ```
