@@ -483,10 +483,7 @@ sdb                      8:16  1    29G  0 disk
 
 <p>Instruct xbps to work with the correct folders.</p>
 
-<pre><code># for dir in dev proc sys; do 
-&gt;mkdir /mnt/$dir
-&gt;mount --rbind /$dir /mnt/$dir
-&gt;done
+<pre><code># for dir in dev proc sys; do mkdir /mnt/$dir; mount --rbind /$dir /mnt/$dir; done
 _
 </code></pre>
 
@@ -494,7 +491,7 @@ _
 
 <p>Option 1: To install with current packages:</p>
 
-<pre><code># xbps-install -Sy -R https://alpha.de.repo.voidlinux.org/current -r /mnt base-system lvm2 cryptsetup grub vim
+<pre><code># export XBPS_ARCH=x86_64-musl &amp;&amp; xbps-install -S -R https://alpha.de.repo.voidlinux.org/current/musl -r /mnt base-system lvm2 cryptosetup grub vim
 </code></pre>
 
 <p>Option 2: To install with Installation media packages:</p>
